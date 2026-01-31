@@ -1,4 +1,4 @@
-# Movie Argument Engine 🎬
+# Movie Argument Engine
 
 An end-to-end data science system for movie ranking, comparison, and analysis with explainable AI-powered verdicts.
 
